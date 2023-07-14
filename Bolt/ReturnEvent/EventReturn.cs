@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Ludiq;
 using Bolt;
+using Unity.VisualScripting;
 
 namespace Lasm.BoltExtensions
 {
